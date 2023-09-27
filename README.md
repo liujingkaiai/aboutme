@@ -10,11 +10,11 @@
 
 - **工作年限**：6年
 
-- **擅长语言**：go,php ,html,css
+- **擅长语言**：golang,php ,html,css,javascript
 
-- **技术栈**：php当前主流框架都可快速上手如`laravel` ,`thinkphp`,`symfony`，`hyperfy` ... ,go语言的`gin`，`go-zero`等框架，mysql`,`redis`,`nginx`,`kafka`,`elasticsearch`,`nats`等开源软件也可以熟练的应用到程序中
+- **技术栈**：php当前主流框架都可快速上手如`laravel` ,`thinkphp`,`symfony`，`hyperf`,使用`hyperf`至少实际开发过两个项目 ... ,go语言的`gin`，`go-zero`等框架，mysql`,`redis`,`nginx`,`kafka`,`elasticsearch`,`nats`等开源软件也可以熟练的应用到程序中。前端熟悉jquery ,vue2，用过vue+elementui简单开发过后台 
 
-- **自我评价**：可以迅速上手go，或者php任何框架，对代码风格有严格要求，拒绝写垃圾代码，需求明确的项目都可以迅速开发
+- **自我评价**：可以迅速上手go，或者php任何框架，对代码风格有严格要求，拒绝写垃圾代码，需求明确的项目都可以迅速开发,laravel中文社区活跃用户，参与laravel9版本翻译。使用go语言实现过tcpserver,和轻量级websocket框架 https://github.com/liujingkaiai/x-socket
 
   ------
 
@@ -30,7 +30,7 @@
 
 项目介绍:一个用于公司内部营销短信和Apppush的短链接服务，包含转链、存储、链接跳转功能，并能提供点击上报数据报功能。支撑了公司内部2条业务线，覆盖了数万用户，从上线至今稳定运行1年。
 
-​    个人职责:
+个人职责:
 
  - 负责项目的整体设计和开发,负责实现转链和链接跳转模块逻辑。
  - 基于MySQL主键实现了高可用的发号器组件。
